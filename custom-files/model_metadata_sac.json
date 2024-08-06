@@ -6,11 +6,11 @@
     },
     "speed": {
       "high": 2.0,
-      "low": 0.5
+      "low": 1
     }
   },
   "sensor": [
-    "STEREO_CAMERAS"
+    "FRONT_FACING_CAMERA"
   ],
   "neural_network": "DEEP_CONVOLUTIONAL_NETWORK_SHALLOW",
   "version": "5",
